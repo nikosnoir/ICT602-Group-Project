@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Personalition</string>
+    <string name="start_questionnaire">Start Questionnaire</string>
+    <string name="welcome_to_the_language_learning_app">Welcome to the Language Learning App!</string>
+    <string name="feedback_will_appear_here">Feedback</string>
+    <string name="personality_insights_will_appear_here">Personality Insights.</string>
+    <string name="your_personality_profile">Your Personality Profile</string>
+    <string name="Results">Results </string>
+    <string name="sample_question">I enjoy trying out new activities or hobbies.</string>
+    <string name="main_description">Lets Test Your Personality Now! </string>
+    <string name="personality_details_dynamic">Predicted Personality Profile:\nOpenness: %.2f\nConscientiousness: %.2f\nExtraversion: %.2f\nAgreeableness: %.2f\nNeuroticism: %.2f</string>
+    <string name="question_progress">Question %1$d of %2$d</string>
+    <string name="questionnaire_feedback">Please select an answer before proceeding.</string>
+    <string name="question_text">%1$s</string>
+    <string name="question_1">I enjoy trying out new activities or hobbies.</string>
+    <string name="question_2">I prefer spending time alone over socializing with others.</string>
+    <string name="question_3">I tend to worry about things, even if theres no real reason to.</string>
+    <string name="question_4">I feel comfortable in most social situations.</string>
+    <string name="question_5">I like to keep a structured schedule and follow routines.</string>
+    <string name="question_6">I try to avoid conflict and prefer to keep the peace.</string>
+    <string name="question_7">I enjoy taking on challenges, even if they\'re difficult.</string>
+    <string name="question_8">I am often the life of the party at social gatherings.</string>
+    <string name="question_9">I find it easy to get along with people who have different opinions.</string>
+    <string name="question_10">I like to try new foods and experience different cultures.</string>
+    <string name="questionnaire_activity_label">Questionnaire</string>
+    <string name="results_activity_label">Results</string>
+    <string name="seeMoreButton">See More</string>
+
+    <!-- Personality Trait Labels -->
+    <string name="openness">Openness Result</string>
+    <string name="conscientiousness">Conscientiousness Result</string>
+    <string name="extraversion">Extraversion Result</string>
+    <string name="agreeableness">Agreeableness Result</string>
+    <string name="neuroticism">Neuroticism Result</string>
+
+    <!-- Interpretation labels -->
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    <!-- Personality trait descriptions -->
+    <string name="low_openness">You prefer routine and familiarity.</string>
+    <string name="medium_openness">You are open to trying new experiences.</string>
+    <string name="high_openness">You are highly creative and adventurous.</string>
+
+    <string name="low_conscientiousness">You might be spontaneous and flexible.</string>
+    <string name="medium_conscientiousness">You are generally organized.</string>
+    <string name="high_conscientiousness">You are very organized and prefer structure.</string>
+
+    <string name="low_extraversion">You tend to enjoy solitude.</string>
+    <string name="medium_extraversion">You enjoy a mix of socializing and alone time.</string>
+    <string name="high_extraversion">You are outgoing and enjoy being around people.</string>
+
+    <string name="low_agreeableness">You can be assertive or critical.</string>
+    <string name="medium_agreeableness">You are generally friendly and cooperative.</string>
+    <string name="high_agreeableness">You are very empathetic and compassionate.</string>
+
+    <string name="low_neuroticism">You tend to remain calm and emotionally stable.</string>
+    <string name="medium_neuroticism">You may experience occasional stress.</string>
+    <string name="high_neuroticism">You might experience frequent stress or anxiety.</string>
+
+    <!-- Individual Trait Results -->
+    <string name="openness_result">Openness: %1$.2f</string>
+    <string name="conscientiousness_result">Conscientiousness: %1$.2f</string>
+    <string name="extraversion_result">Extraversion: %1$.2f</string>
+    <string name="agreeableness_result">Agreeableness: %1$.2f</string>
+    <string name="neuroticism_result">Neuroticism: %1$.2f</string>
+    <string name="see_more">See More</string>
+    <string name="see_less">See Less</string>
+    <string name="chatbot">Chatbot</string>
+    <string name="interpretation">Interpretation: You are a well-rounded individual with balanced traits across all categories. Keep in mind that personality is dynamic and can change over time.</string>
+
+    <string name="feedback_message">Your personality insights have been generated!</string>
+    <string name="radar_chart_label">Big Five Traits</string>
+    <string name="personality_details">
+        Predicted Personality Profile:
+        Openness: %1$.2f
+        Conscientiousness: %2$.2f
+        Extraversion: %3$.2f
+        Agreeableness: %4$.2f
+        Neuroticism: %5$.2f
+    </string>
+
+    <!-- App Name -->
+
+    <!-- Radio Button Labels for Likert Scale -->
+    <string name="strongly_disagree">Strongly Disagree</string>
+    <string name="disagree">Disagree</string>
+    <string name="neutral">Neutral</string>
+    <string name="agree">Agree</string>
+    <string name="strongly_agree">Strongly Agree</string>
+
+
+    <!-- Button Labels -->
+    <string name="next">Next</string>
+    <string name="submit_button_label">Submit</string>
+
+    <!-- Feedback Messages -->
+    <string name="model_loading_failed">Model loading failed. Please try again.</string>
+    <string name="complete_all_questions">Please complete all questions before proceeding.</string>
+    <string name="imageView">Description of the image</string>
+</resources>

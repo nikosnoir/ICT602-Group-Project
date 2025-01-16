@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#E0E0E0</color>
+    <color name="accent_color">#FF4081</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="webColor">#BDBDBD</color>
+    <!-- Primary Colors -->
+    <color name="primaryColor">#00796B</color> <!-- Teal -->
+    <color name="primaryDarkColor">#004D40</color> <!-- Dark Teal -->
+    <color name="accentColor">#FF9800</color> <!-- Orange -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light Gray -->
+    <color name="cardBackgroundColor">#FFFFFF</color> <!-- White -->
+
+    <!-- Text Colors -->
+    <color name="primaryTextColor">#212121</color> <!-- Black -->
+    <color name="secondaryTextColor">#757575</color> <!-- Dark Gray -->
+
+    <!-- Button Colors -->
+    <color name="buttonColor">#FF9800</color> <!-- Orange -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White -->
+
+    <!-- Chart Colors -->
+    <color name="chartColor">#64B5F6</color> <!-- Light Blue -->
+</resources>
