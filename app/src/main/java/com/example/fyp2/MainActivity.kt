@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
     private fun loadModelFromAssets(): String {
         return try {
             // Open the CSV file from the assets folder
-            val inputStream = assets.open("synthetic_personality_data.csv")
+            val inputStream = assets.open("synthetic_personality_data.csv")s
             val reader = BufferedReader(InputStreamReader(inputStream))
             val csvContent = reader.readText()
             reader.close()
